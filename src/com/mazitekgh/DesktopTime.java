@@ -1,7 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Digital Desktop Clock 
+ * By @author Zakaria Mohammed(fatzak16@gmail.com)
+ * for MaziTek GH(http://mazitekgh.com)
+ * 
+ * details of this file can be found at
+ * http://www.mazitekgh.com/2018/01/digital-desktop-clock-using-java-swing.html
+ * 
  */
 package com.mazitekgh;
 
@@ -12,13 +16,7 @@ import java.util.Calendar;
 import java.util.Locale;
 import javax.swing.Timer;
 
-/**
- * Digital Desktop Clock
- *
- * @author Zakaria Mohammed
- *
- *
- */
+
 public class DesktopTime extends javax.swing.JFrame {
 
 // label to font size ratio will be stored here
